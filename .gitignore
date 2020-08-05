@@ -1,0 +1,16 @@
+*.xcworkspace/
+target/
+*.xcuserdata/
+*.xcscheme
+*.pkg
+*.ipa
+xcschememanagement.plist
+Pods/
+Carthage/
+.DS_Store
+.bundle
+bundle/
+
+build/
+.schema
+CGContextMirror.xcodeproj/xcuserdata
